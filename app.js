@@ -6,7 +6,7 @@ document.querySelectorAll('.left-panel img').forEach(item => item.onmouseenter =
 
 select.addEventListener('change', changeURLLanguage);
 
-// перенаправить на url с указанием языка
+// перенаправити на url із зазначенням мови
 function changeURLLanguage() {
     let lang = select.value;
     location.href = window.location.pathname + '#' + lang;
