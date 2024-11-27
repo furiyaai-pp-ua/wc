@@ -1,7 +1,7 @@
 const langArr = {
     "unit":{
-        "en": "b22332 ",
-        "uk": "створює23232сайт",
+        "en": "222222",
+        "uk": "111111",
     }, 
     "chip": {
         "en": "graphics processing unit",
