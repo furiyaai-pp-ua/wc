@@ -1,0 +1,113 @@
+/*  = Demo only ---------------------------*/
+body{background: #dedfc399;width:380px;margin: 2px auto;}
+
+/*  = Skin ------------------------------*/
+/* biruTabs block */
+.biruTabsBox{
+  background:#ecf0f1;
+  box-shadow: 0 6px 3px -6px #000; 
+}
+
+/* tabs buttom */
+.tabs {
+  background: #ECF0F1;
+  color:#16a085;
+  border-bottom: 2px solid #16a085;
+}
+
+.tab.active{
+  background:#1abc9c;
+  color: #ecf0f1;
+}
+
+/*  = BiruTabs basic
+------------------------------*/
+/* biruTabs block */
+.biruTabsBox{border-radius:4px;}
+.tabs {
+  text-align: center;
+  list-style: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 100%;
+  text-align: left;
+}
+
+.tab {
+  display: inline-block;
+  line-height: 1.5em;
+  z-index: 1000;
+  padding: 0.5em 1em;
+  font-size: 1em;
+  cursor: pointer;  
+}
+
+/* tabs buttom */
+.tabCaption{
+  padding:0.5em;
+  z-index:999999;
+}
+
+.biruTab {
+  position: relative;
+  padding-top: 2em;
+  width: 100%;
+  overflow: auto;
+  margin: 0 auto;
+}
+
+.biruTab ul,
+.biruTab ol {
+  margin: 0;
+  padding:0;
+}
+
+.biruTab ul li {
+  position:relative;
+  display: block;
+  float: left;
+  width: 100%;
+  height: auto;   
+  padding: 0; 
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -ms-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
+}
+
+/*  = html ---------------------------*/
+.qew{
+border-radius: 4px;
+background-color: #ffffff;
+box-shadow: 0px 0px 6px 0px #000;
+}
+
+.qew1{
+border-radius: 4px;
+height:100px;
+background-color: #ffffff;
+box-shadow: 0px 0px 6px 0px #000;
+}
+
+
+/*  = html k ---------------------------*/
+#block1 {
+float: left;
+display: block;
+width: 100px;
+border: 1px solid gray;
+margin: 2px;
+padding: 4px;
+}
+
+#block2 {
+float: left;
+display: block;
+width: 100px;
+border: 1px solid gray;
+margin: 2px;
+padding: 4px;
+}
