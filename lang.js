@@ -2,6 +2,7 @@ const langArr = {
     "unit":{
         "en": "Furiya AI - EN",
         "uk": "Furiya AI - UA",
+     }, 
     "chip": {
         "en": "graphics processing unit",
         "uk": "графічний чіп",
