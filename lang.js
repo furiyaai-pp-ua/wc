@@ -42,4 +42,4 @@ const langArr = {
         "en": "Hello3",
         "uk": "Привіт3", 
     },
-}
+},
