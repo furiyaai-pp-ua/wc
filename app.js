@@ -5,7 +5,7 @@ const allLang = ['en', 'uk', ];
 const langArr = {
     "unit" :  {
         "en": "build a multi language site ",
-        "ua": "створюємо багатомовний сайт",
+        "uk": "створюємо багатомовний сайт",
     }, 
     "vk1":{
         "en": "Hello1",
@@ -25,19 +25,19 @@ const langArr = {
     }, 
     "memory": {
         "en": "memory size",
-        "ua": "oбсяг пам'яті",
+        "uk": "oбсяг пам'яті",
     }, 
     "memory-type": {
         "en": "memory type",
-        "ua": "nип пам'яті",
+        "uk": "nип пам'яті",
     }, 
     "cool": {
         "en": "сooling system type",
-        "ua": "тип системи охолодження",
+        "uk": "тип системи охолодження",
     }, 
     "more": {
         "en": "more details",
-        "ua": "детально про товар",
+        "uk": "детально про товар",
     }, 
 }
 
