@@ -1,5 +1,5 @@
 const langArr = {
-    "unit" :  {
+    "unit": {
         "en": "build a multi language site ",
         "uk": "створюємо багатомовний сайт",
     }, 
