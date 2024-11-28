@@ -6,6 +6,9 @@ const langArr = {
     "mov": {
         "en": "Language",
         "uk": "Мова",
+    "mov1": {
+        "en": "Language",
+        "uk": "Мова",
     }, 
     "vk1":{
         "en": "Hello1",
