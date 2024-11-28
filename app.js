@@ -7,6 +7,18 @@ const langArr = {
         "en": "build a multi language site ",
         "ua": "створюємо багатомовний сайт",
     }, 
+    "vk1":{
+        "en": "Hello1",
+        "uk": "Привіт1", 
+    },
+    "pr":{
+        "en": "Hello2",
+        "uk": "Привіт2", 
+    },
+    "fb":{
+        "en": "Hello3",
+        "uk": "Привіт3", 
+    },
     "chip": {
         "en": "graphics processing unit",
         "ua": "графічний чіп",
