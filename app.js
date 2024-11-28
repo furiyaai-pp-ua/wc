@@ -1,7 +1,7 @@
 const langArr = {
     "unit": {
-        "en": "build a multi language site ",
-        "uk": "створюємо багатомовний сайт",
+        "en": "Furiya AI - EN",
+        "uk": "Furiya AI - UA",
     }, 
     "vk1":{
         "en": "Hello1",
@@ -15,26 +15,6 @@ const langArr = {
         "en": "Hello3",
         "uk": "Привіт3", 
     },
-    "chip": {
-        "en": "graphics processing unit",
-        "ua": "графічний чіп",
-    }, 
-    "memory": {
-        "en": "memory size",
-        "uk": "oбсяг пам'яті",
-    }, 
-    "memory-type": {
-        "en": "memory type",
-        "uk": "nип пам'яті",
-    }, 
-    "cool": {
-        "en": "сooling system type",
-        "uk": "тип системи охолодження",
-    }, 
-    "more": {
-        "en": "more details",
-        "uk": "детально про товар",
-    }, 
 }
 
 const maxImg = document.querySelector('.right-panel img');
@@ -62,7 +42,6 @@ function changeLanguage() {
     }
     select.value = hash;
      document.querySelector('title').innerHTML = langArr['unit'][hash];
-    // document.querySelector('.lng-chip').innerHTML = langArr['chip'][hash];
     for (let key in langArr) {
         let elem = document.querySelector('.lng-' + key);
         if (elem) {
