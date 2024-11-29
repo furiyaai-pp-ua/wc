@@ -1,34 +1,7 @@
 const langArr = {
-    "unit":{
+    "unit": {
         "en": "Furiya AI - EN",
         "uk": "Furiya AI - UA",
-     }, 
-    "chip": {
-        "en": "graphics processing unit",
-        "uk": "графічний чіп",
-    }, 
-    "memory": {
-        "en": "memory size",
-        "ua": "oбсяг пам'яті",
-    }, 
-    "memory-type": {
-        "en": "memory type",
-        "uk": "nип пам'яті",
-    }, 
-    "cool": {
-        "en": "сooling system type",
-        "uk": "тип системи охолодження",
-    }, 
-    "more": {
-        "en": "more details",
-        "uk": "детально про товар",        
-    }, 
-    "mov": {
-        "en": "Language",
-        "uk": "Мова",
-    "mov1": {
-        "en": "Language",
-        "uk": "Мова",
     }, 
     "vk1":{
         "en": "Hello1",
@@ -42,4 +15,4 @@ const langArr = {
         "en": "Hello3",
         "uk": "Привіт3", 
     },
-},
+}
