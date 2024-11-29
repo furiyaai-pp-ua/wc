@@ -1,22 +1,3 @@
-const langArr = {
-    "unit": {
-        "en": "Furiya AI - EN",
-        "uk": "Furiya AI - UA",
-    }, 
-    "vk1":{
-        "en": "Hello1",
-        "uk": "Привіт1", 
-    },
-    "pr":{
-        "en": "Hello2",
-        "uk": "Привіт2", 
-    },
-    "fb":{
-        "en": "Hello3",
-        "uk": "Привіт3", 
-    },
-}
-
 const maxImg = document.querySelector('.right-panel img');
 const select = document.querySelector('select');
 const allLang = ['en', 'uk', ];
